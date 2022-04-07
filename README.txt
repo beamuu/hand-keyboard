@@ -35,12 +35,12 @@ Source Code:
       ควบคุม hardware ที่อยู่บนถุงมือด้านขวา ใช้สำหรับการยืนยันการพิมพ์ และ ฟีเจอร์ต่างๆ
     
     - controller-comm.py
-      รับคำสั่งจาก controller เพื่อส่งไปให้ gate และ guesture ประมวลผล
+      รับคำสั่งจาก controller เพื่อส่งไปให้ gate และ gesture ประมวลผล
       
-    - guesture.cpp
+    - gesture.cpp
       ควบคุม Flex sensor ที่อยู่บนถุงมือด้านซ้ายเพื่อแปลง pattern ของการขยับนิ้วในรูปแบบต่างไปเป็นตัวอักษรที่กำหนด
     
-    - guesture-comm.py
+    - gesture-comm.py
       รับคำสั่งจาก guesture เพื่อส่งไปให้ gate และ event การพิมพ์ตัวอักษรจาก controller
       
     
