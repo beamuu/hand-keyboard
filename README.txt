@@ -41,6 +41,6 @@ Source Code:
       ควบคุม Flex sensor ที่อยู่บนถุงมือด้านซ้ายเพื่อแปลง pattern ของการขยับนิ้วในรูปแบบต่างไปเป็นตัวอักษรที่กำหนด
     
     - gesture-comm.py
-      รับคำสั่งจาก guesture เพื่อส่งไปให้ gate และ event การพิมพ์ตัวอักษรจาก controller
+      รับคำสั่งจาก gesture เพื่อส่งไปให้ gate และ event การพิมพ์ตัวอักษรจาก controller
       
     
